@@ -1,4 +1,4 @@
-![LOGO](Logo.png)
+# ![alt text](Logo.png)
 
 En este repositorio se van alojar los monorepositorios de los trabajos practicos que se realicen semana a semana.
 DOCENTE: Gustavo Vera
@@ -6,7 +6,7 @@ Alumno: Facundo Fernandez
 Estructura del Monorepositorio
 TP1 - Simulación Eléctrica - 14/04/2024
 
-Resumen de Repositorio actual TP1
+## Resumen de Repositorio actual TP1
 • TP #1 Simulación Eléctrica
 
 Objetivos:
@@ -18,7 +18,7 @@ Objetivos:
 
 • Analizar y comprender los resultados de las simulaciones.
 
-Fundamentos eléctricos :
+# Fundamentos eléctricos :
 Diseñar y simular un circuito eléctrico básico con una fuente de tensión, resistencia y un LED.
 Diseñar y simular un circuito eléctrico básico con conexión serie, paralelo y mixta. Analizar corrientes y tensiones.
 Diseñar y simular un circuito eléctrico con un capacitor y analizar el comportamiento de la corriente y la tensión en el capacitor.
